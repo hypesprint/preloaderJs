@@ -16,7 +16,7 @@ overlay.style.cssText = `
 
 const svgImage = document.createElement('img');
 svgImage.id = 'svgImage';
-svgImage.src = 'https://hypesprint.github.io/preloaderJs/quitfy_splash_mini.gif';
+svgImage.src = 'https://hypesprint.github.io/preloaderJs/Quitfy_logo_open_150x67.gif';
 svgImage.style.cssText = `
     max-width: 100%;
     max-height: 100%;
